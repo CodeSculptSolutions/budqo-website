@@ -11,7 +11,7 @@ export const hero = {
   },
   floatingStats: [
     { value: '₱2,450', label: 'Free this period', accent: 'green' },
-    { value: '8 mo', label: 'Debt-free in', accent: 'blue' },
+    { value: '8 mos', label: 'Debt-free in', accent: 'blue' },
   ],
   screenshots: [
     '/data/images/app-screenshot-1.png',
