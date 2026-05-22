@@ -55,6 +55,7 @@ export const metadata: Metadata = {
     description: 'Personal finance built around your actual pay cycle.',
     images: ['/og.png'],
   },
+  icons: { icon: "/favicon.svg" },
   robots: {
     index: true,
     follow: true,
